@@ -1,5 +1,3 @@
-# The Cabin Crew: Queue Optima
-
 ### ESD Term 4 - 40.002 Optimisation Project
 
 ### Maritime Route Optimisation of Singular Cargo Vessel leaving Singapore
