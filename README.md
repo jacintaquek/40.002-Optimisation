@@ -24,6 +24,5 @@ import Plots
 ```
 
 ## 2. Model
-```
+
 The objective of this optimisation problem is to find the shortest path for ships to navigate from Singapore to all a destination ports and ultimately back to Singapore, all while considering their distances. We define our model following a TSP formulation. The network of ports and maritime routes is represented as a weighted directed graph, where each port corresponds to a node and each route corresponds to an edge between nodes. The weight of each edge represents the distance associated with traversing the route. By finding the optimal path for the delivery of cargo, the cost and travel time will be reduced.
-```
